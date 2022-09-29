@@ -45,8 +45,11 @@ nav {
     
 }
 
-.menu-options{
+.menu{
     float: right;
+}
+
+.menu-options{
     list-style-type: none;
 }
 
